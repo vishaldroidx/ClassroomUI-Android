@@ -20,7 +20,7 @@ Check out the new style for App Design aims for Classrooms...😉😀😁😎
 ## Contributing
 
 Please fork this repository and contribute back using
-[pull requests](https://github.com/Shashank02051997/ClassroomUI-Android/pulls).
+[pull requests](https://github.com/vishaldroidx/ClassroomUI-Android/pulls).
 
 Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
 but will be thoroughly reviewed .
